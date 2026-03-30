@@ -1,0 +1,4 @@
+RX240, 220, Nike, Formal Casual
+JX40, 120, Uggs, Streetwear
+RT100, 250, Timberland, Streetwear
+RX240, 220, Nike, 5
